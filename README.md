@@ -4,7 +4,7 @@
 - 👀 Software garapenean interesatuta nago, bereziki web teknologiatan, hala nola Angular, React, .NET eta frontend eta backend diseinu modernoen praktikan.
 - 🌱 Une honetan, .NET 8, Entity Framework Core 8 ikasten ari naiz eta diseinu sistema desberdinak esploratzen ari naiz Figma bezalako tresnekin.
 - 💞️ Web garapenarekin, osagaietan oinarritutako interfaze diseinuarekin eta eskalagarriak diren frontend arkitekturekin lotutako proiektuetan laguntzeko prest nago.
-- 📫 Nola harremanetan jarri: Niri idatz dezakezu helbide honetan asanchezzdam1+git@gmail.com edo LinkedIn-en [hemen](https://www.linkedin.com/in/aimar-sanchez-zabalza-9b2171236/){::target="_blank"}.
+- 📫 Nola harremanetan jarri: Niri idatz dezakezu helbide honetan asanchezzdam1+git@gmail.com edo LinkedIn-en <a href="https://www.linkedin.com/in/aimar-sanchez-zabalza-9b2171236/" target="_blank">hemen</a>.
 - 😄 Izenordainak: Berak
 - ⚡ Bitxikeria: 20 urte nituenean programatzaile bezala hasi nintzen lanean.
 
